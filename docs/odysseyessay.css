@@ -1,5 +1,12 @@
+h1 { 
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 24px; } 
+h3 { 
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 24px; } 
 body {
-  background-color: white;
-  text-color: black;
-  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 48px;
-}
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 24px; }
+p {
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 24px; }
+blockquote {
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 24px; }
+pre { 
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 24px; }
